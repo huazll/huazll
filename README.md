@@ -1,6 +1,6 @@
 ## 我是红豆 🫘
 
-- 👨‍💻 经历：<a href="/" target="_blank">自学成才的小任务~</a>
+- 👨‍💻 经历：<a href="/" target="_blank">自学成才的红豆~</a>
 - 🏡 作品：<a href="https://github.com/huazll/OfficeApplication" target="_blank">OA系统</a> | <a href="https://github.com/huazll/mumumall-backend" target="_blank">红豆商店</a> | <a href="https://github.com/huazll/mumumall-backend" target="_blank">求星星 ✨</a>
 - 💬 微信：hnnofo（请备注事由）
 
