@@ -1,7 +1,7 @@
 ## 我是清风 😎
 
 - 👨‍💻 经历：<a href="https://github.com/huazll" target="_blank">自学成才的清风~</a>
-- 🏡 作品：<a href="https://github.com/huazll/OfficeApplication" target="_blank">OA系统</a> | <a href="https://github.com/huazll/mumumall-backend" target="_blank">红豆商店</a> | <a href="https://github.com/huazll/mumumall-backend" target="_blank">求星星 ✨</a>
+- 🏡 作品：<a href="https://github.com/huazll/OfficeApplication" target="_blank">OA系统</a> | <a href="https://github.com/huazll/mumumall-backend" target="_blank">商城后端系统</a> | <a href="https://github.com/huazll/mumumall-backend" target="_blank">求星星 ✨</a>
 - 💬 微信：hnnofo（请备注事由）
 
 ## 今年汇总 ✨
